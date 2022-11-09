@@ -1,0 +1,4 @@
+﻿  main.c
+E:\桌面\学习\C project\StringFuncationDemo2\StringFuncationDemo2\main.c(21,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\桌面\学习\C project\StringFuncationDemo2\StringFuncationDemo2\main.c(21,9): message : 请考虑在格式字符串中使用“%zu”
+  StringFuncationDemo2.vcxproj -> E:\桌面\学习\C project\StringFuncationDemo2\x64\Debug\StringFuncationDemo2.exe
