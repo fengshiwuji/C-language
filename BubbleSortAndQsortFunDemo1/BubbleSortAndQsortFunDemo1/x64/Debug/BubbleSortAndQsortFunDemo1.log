@@ -1,0 +1,3 @@
+﻿  main.c
+E:\桌面\学习\C project\BubbleSortAndQsortFunDemo1\BubbleSortAndQsortFunDemo1\main.c(41,1): warning C4305: “初始化”: 从“double”到“float”截断
+  BubbleSortAndQsortFunDemo1.vcxproj -> E:\桌面\学习\C project\BubbleSortAndQsortFunDemo1\x64\Debug\BubbleSortAndQsortFunDemo1.exe
